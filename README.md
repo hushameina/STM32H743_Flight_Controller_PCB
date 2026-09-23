@@ -380,6 +380,6 @@ Interests:
 
 # License
 
-This project is shared for educational and portfolio purposes.
+This project is licensed under the MIT License.
 
-Please contact the author before using the design for commercial applications.
+See the `LICENSE` file for details.
